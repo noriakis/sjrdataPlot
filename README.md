@@ -1,5 +1,5 @@
 # sjrdataPlot
-A shiny application for plotting the Scimago Journal & Country Rank data using the R package [`sjrdata`](https://github.com/ikashnitsky/sjrdata), and optionally provide author-level plot using an R package [`scholar`](https://github.com/jkeirstead/scholar). [`sjrdata`](https://github.com/ikashnitsky/sjrdata) provides nice [examples](https://ikashnitsky.github.io/2018/sjrdata-package/). The application is available at [shinyapps.io](https://www.shinyapps.io/). 
+A shiny application for plotting the Scimago Journal & Country Rank data using the R package [`sjrdata`](https://github.com/ikashnitsky/sjrdata), and optionally provide author-level plot using an R package [`scholar`](https://github.com/jkeirstead/scholar). [`sjrdata`](https://github.com/ikashnitsky/sjrdata) provides nice [examples](https://ikashnitsky.github.io/2018/sjrdata-package/). The application is available at [shinyapps.io](https://www.shinyapps.io/) ([https://nsato.shinyapps.io/sjrdataplot/](https://nsato.shinyapps.io/sjrdataplot/)). 
 
 ## Example
 ![example](example.png "example")
